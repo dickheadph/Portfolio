@@ -62,7 +62,7 @@ b {
 .photo {
   float: left;
   border-radius: 50%;
-  width: 46%;
+  width: 50%;
   margin: 150px 5% 0% 1px;
   padding: 25px;
 }
@@ -79,7 +79,7 @@ b {
 .text {
   font-weight: 900;
   font-size: 3.5em;
-  padding: 3% 50px;
+  padding: 5% 50px;
 }
 
 .btn {
