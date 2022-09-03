@@ -399,7 +399,12 @@ textarea {
     margin-bottom: 20px;
     margin: 8px 2%;
   }
-
+  .card-img-top {
+  height: 200px;
+  width: 280px auto;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
   .card-body {
     text-align: center;
     margin: 0 0 2px;
