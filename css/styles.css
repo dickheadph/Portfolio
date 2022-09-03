@@ -360,7 +360,14 @@ textarea {
     width: 75%;
     margin-bottom: 5%;
   }
-
+  .name {
+  font-family: "Bebas Neue", cursive;
+  font-size: 3rem;
+  font-weight: bolder;
+  padding: 1px;
+  margin: 5px 10px;
+  color: #02c276;
+}
   .btn {
     text-align: center;
     margin: 20% 39%;
