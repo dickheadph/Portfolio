@@ -381,6 +381,12 @@ textarea {
   .row-contact {
     margin: 0%;
   }
+  .mailreveal {
+  padding-left: 20%;
+  padding-right: 0%;
+  border-left: 30%;
+  margin-right: 0%;
+}
 
   .col {
     width: 100%;
