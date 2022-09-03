@@ -350,8 +350,7 @@ textarea {
 
 @media (max-width: 640px) {
   .logo {
-    width: 90px;
-    border-radius: 5%;
+    width: 80px;
     margin-left: 5%;
   }
   .photo {
