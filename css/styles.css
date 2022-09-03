@@ -406,6 +406,9 @@ textarea {
   .card-text {
     text-align: left;
   }
+  .mailing {
+  margin-left: 10%;
+}
 
   /*  .a {
   position: relative;
