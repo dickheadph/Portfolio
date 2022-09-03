@@ -412,10 +412,16 @@ textarea {
   }
   .card-text {
     text-align: left;
+    font-size: medium;
   }
+  .card-title {
+  font-size: large;
+}
   .mailing {
   margin-left: 10%;
 }
+  
+
 
   /*  .a {
   position: relative;
