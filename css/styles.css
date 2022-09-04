@@ -263,6 +263,11 @@ font-size: 1.5rem;
   font-size: medium;
   font-weight: lighter;
 }
+.ic-badge {
+  margin-left: 1px;
+  color: #01ba7e;
+  --fa-beat-fade-opacity: 0.60; --fa-beat-fade-scale: 1.10;
+}
 
 /*Services Offered*/
 
