@@ -264,7 +264,7 @@ font-size: 1.5rem;
   font-weight: lighter;
 }
 .ic-badge {
-  margin-left: 1px;
+  margin-left: 15px;
   color: #01ba7e;
   --fa-beat-fade-opacity: 0.60; --fa-beat-fade-scale: 1.10;
 }
@@ -421,6 +421,11 @@ textarea {
   }
   .card-title {
   font-size: large;
+}
+  .ic-badge {
+  margin-left: 10px;
+  color: #01ba7e;
+  --fa-beat-fade-opacity: 0.60; --fa-beat-fade-scale: 1.10;
 }
   .mailing {
   margin-left: 10%;
