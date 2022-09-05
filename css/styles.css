@@ -366,11 +366,7 @@ textarea {
     margin-left: 5%;
   }
   .photo {
-    margin-top: 20%;
-    margin-left: 14%;
-    border-radius: 50%;
-    width: 75%;
-    margin-bottom: 5%;
+    display: none;
   }
   .name {
   font-family: "Bebas Neue", cursive;
