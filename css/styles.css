@@ -87,8 +87,8 @@ b {
   background-color: #02c276;
   color: #fff;
   width: max-content;
-  margin: 0% 5%;
   float: left;
+  margin-bottom: 10px;
 }
 .btn-container {
   text-align: center;
