@@ -311,8 +311,10 @@ font-size: 1.5rem;
 }
 /*Contact Me*/
 
+.sep{
+  margin-left: 15%;
+}
 .mailreveal {
-  margin-left: 5%;
   padding-left: 3%;
   border-left: 30%;
 }
